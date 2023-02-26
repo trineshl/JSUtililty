@@ -1,0 +1,22 @@
+{
+  "name": "@trineshl/jsutility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JSUtility.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trineshl/JSUtililty.git"
+  },
+  "keywords": [
+    "JSUtility",
+    "JSUtilities",
+    "JSUtils"
+  ],
+  "author": "Trinesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trineshl/JSUtililty/issues"
+  },
+  "homepage": "https://github.com/trineshl/JSUtililty#readme"
+}
